@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasuGarg2004
 - 👀 I’m interested in anything logical 
-- 🌱 I’m currently learning computer science basics
+- 🌱 I’m currently learning interesting stuff
 - 📫 vasuvgarge@gmail.com
 
 <!---
